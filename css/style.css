@@ -1,0 +1,734 @@
+/*font-family: 'Yeon Sung', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Libre Baskerville', serif; */
+/* header start*/
+header{
+	background-image: url(../images/slider_1_1920_1200.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+.navbar-toggler{
+	background-color: white !important;
+}
+.menu ul li a{
+  font-family: 'Libre Baskerville', serif;
+  color: white !important;
+}
+.menu ul li:hover  a{
+	color: lime!important;
+}
+
+.button-style{
+	padding: 10px;
+	background-color: #F10129;
+	color: white;
+	border-color: #F10129;
+	transition: 1s;
+}
+.button-style:hover{
+	background-color: black !important;
+	color: white!important;
+}
+
+.header-content{
+padding-top:296px;
+padding-bottom: 180px;
+}
+.header-content h3{
+	font-family: 'Libre Baskerville', serif;
+	color: white;
+	    font-size: 28px;
+}
+.header-content p {
+	font-family:'Pacifico', cursive;
+	font-size: 108px;
+	color: white; 
+
+}
+.header-content button{
+
+}
+.h-button{
+	padding: 10px;
+	background-color: #F10129;
+	color: white;
+	border-color: #F10129;
+
+}
+/*header end */
+/*story section start*/
+.story{
+	background-color: white;
+	padding-top: 80px;
+    padding-bottom: 60px;
+}
+.story-content{}
+.story-content h1{
+	font-family: 'Pacifico', cursive;;
+	font-size: 49px;
+	font-weight:bold;
+	color:black;
+	margin-top: 20px;
+
+}
+.story-p{
+	margin-top: 60px;
+}
+.story-p p {
+    font-size: 25px;
+}
+/*story section End*/
+/* best seller start*/
+.best-seller{
+	background-image: url(../images/sellers-1-1600x1600.jpg);
+	background-size: cover;
+	background-position: 
+	background-repeat: no-repeat;
+	color: white;
+	background-attachment: fixed;
+	min-height: 700px;
+	padding-bottom: 60px;
+
+}
+.pizza{
+	margin-top: 45px;
+}
+.pizza-price{
+	margin-left: 39px;
+}
+.pizza-price p{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 15px;
+	margin-top: 15px;
+	
+}
+.pizza img{
+	
+}
+.pizza-price h1{
+	margin-bottom: 10px;
+}
+.order-button{
+	border: 2px solid #FE3B61 !important;
+	border-color: #FE3B61 !important;
+	color: white !important;
+}
+.last-button{
+	margin-top: 110px;
+}
+.last-style:hover{
+  background: black !important;
+  color: white !important;
+  border-color: black;
+}
+.ani-box{
+	animation-iteration-count:  infinite;
+}
+.story-content1 h1{
+	font-family: 'Pacifico', cursive;;
+	font-size: 49px;
+	font-weight:bold;
+	color:white;
+	margin-top: 20px;
+
+}
+.pbox{
+	text-align: center;
+
+
+}
+/* best seller end*/
+/*menu section start*/
+.menu-section{
+padding-top: 80px;
+padding-bottom: 60px;
+}
+.main-menu{
+	margin-top: 50px;
+	text-align: center;
+}
+.main-menu ul li a{
+	font-family: 'Pacifico', cursive;
+	    font-size: 20px;
+	padding-right: 20px;
+	color: black;
+	
+	
+}
+
+
+.main-menu ul li:hover a{
+	padding: 10px;
+	background-color: #FE3B61 !important;
+	color: white;
+	
+}
+.borderl{
+	margin-top: 30px;
+	border-bottom: 2px solid #FE3B61;
+	}
+
+.whole{
+	margin-top: 20px;
+}
+
+.all-menu{
+	margin-top: 30px;
+	padding-bottom: 60px;
+}
+
+.m-name{}
+.m-image img{
+	margin-bottom: 20px;
+}
+.m-name h1{
+	font-size:20px;
+	margin-bottom: 20px;
+}
+.m-name p{}
+
+.m-price {}
+.m-price p{
+	color:#F10129; 
+	margin-bottom: 20px;
+}
+.m-buttons{
+	margin-top: 50px;
+}
+
+/*menu section end*/
+/* footer start*/
+.footer{
+	background-image: url(../images/blog-3-1000x400.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+.footer-content{}
+.footer-content img{
+	margin-top: 80px;
+}
+.footer-content h1{
+	font-family:'Libre Baskerville', serif;;
+	font-size:30px;
+	color:#68FF57;
+	margin-top: 20px;
+}
+.footer-content p{
+	font-family:'Libre Baskerville', serif;
+	font-size:20px;
+	color:white;
+	margin-top: 10px;
+	margin-bottom: 60px;
+}
+.icon{
+	margin-top: 20px;
+}
+.icon ul li i{
+	font-size: 30px;
+	padding-right: 20px;
+	color:#BDAAAA;
+}
+.copyright{
+
+}
+.copyright p{
+	font-family:'Libre Baskerville', serif;
+	font-size:15px;
+	color:#FBC17B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/* footer end*/
+/*...................................page2 (About us).................................*/
+.about-header{
+	background-image: url(../images/slider_2_1920_600.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	margin-bottom: 50px;
+}
+.about-us-p{
+	padding-bottom: 50px;
+}
+.about-us-image img{
+	height: 500px;
+	width: 100%
+
+}
+.about-us-we{
+	margin-top: 50px;
+}
+.about-us-we h1{
+	font-family:'Pacifico', cursive;
+	font-size: 108px;
+	color: black; 
+
+}
+.about-us-we p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 20px;
+	color: black; 
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+.about-us-para{}
+.about-us-para p{
+	font-family: 'Libre Baskerville', serif;
+	margin-bottom: 50px;
+}
+
+.button-style1{
+	padding: 10px;
+	background-color: #F10129;
+	color: white;
+	border-color: #F10129;
+	transition: 1s;
+}
+.button-style2{
+	padding: 10px;
+	background-color:green;
+	color: white;
+	border-color: 013801;
+	transition: 1s;
+}
+.button-style1:hover{
+    background-color: white;
+    color: black;
+}
+.button-style2:hover{
+	background-color: white;
+    color: black;
+}
+.client-say{
+	background-image: url(../images/sellers-1-1600x1600.jpg);
+	background-size: cover;
+	background-position: 
+	background-repeat: no-repeat;
+	color: white;
+	background-attachment: fixed;
+	min-height: 700px;
+	padding-bottom: 60px;
+
+}
+.client-title{
+	margin-top: 70px;
+}
+.client-title h1{}
+.client-p {
+	font-size: 16px;
+    margin-top: 46px;
+} 
+.client-title p{
+
+}
+.client-image{
+	margin-top: 39px;
+	position: relative;
+}
+.client-image img{
+	position: absolute;
+	left: 105px;
+
+}
+.client-name{}
+.client-name span{
+
+}
+.client-name p{
+	font-size: 10px;
+	color: #F10129;
+}
+/*custom food start*/
+.custom-food{
+	background-color: white;
+	padding-bottom: 60px;
+
+}
+.custom-food-image{
+	padding-top: 50px;
+}
+.custom-food-image img{
+
+}
+.custom-food-count{
+	margin-top: 30px;
+}
+.custom-food-count h1{
+	font-family: 'Yeon Sung', cursive;
+	font-size: 50px;
+	font-weight: 900;
+	margin-right: 73px;
+}
+.custom-food-name{}
+.custom-food-name p{
+	font-family: 'Yeon Sung', cursive;
+	font-size: 23px;
+	font-weight: 900;
+	margin-right: 73px;
+	color: #F10129;
+
+}
+/*custom food end*/
+/*--------------------------------------------------------------------------------------------------------------*/
+/*............................................service page start----------------------------------------------*/
+/*header start*/
+.header-3{
+	background-image: url(../images/service.jpg )!important;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+} 
+/*header end*/
+.hm{
+	background-color: #382C2C;
+}
+.menu button{
+
+}
+
+/* choose piza start*/
+.choose-piza{
+	padding-top: 70px;
+	padding-bottom: 30px;
+
+}
+.choose-title{}
+.choose-title p{
+	font-family: 'Yeon Sung', cursive; 
+	font-size: 45px;
+    font-weight: 900;
+	color: ;
+	margin-bottom: 65px;
+
+}
+.choose-image img{
+	margin-bottom: 20px;
+}
+.choose-image {
+
+}
+.choose-p{
+	position: relative;
+}
+.choose-p p{
+	font-family: 'Libre Baskerville', serif;
+	font-size:25px;
+	margin-left: 22px;
+
+}
+.choose-price{}
+.choose-price p{
+	font-family: 'Libre Baskerville', serif;
+	font-size:25px;
+	color: #EF0031;
+	margin-left: 66px;
+}
+
+.choose-menu{
+	padding-top: 70px;
+	padding-bottom: 50px;
+	background-color: #F4F8F9;
+}
+/* choose piza end*/
+/*add fresh salad start*/
+.fresh{
+	background-color: black;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.fresh-title{}
+.fresh-title p{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 45px;
+	color: white;
+}
+/*add fresh salad end*/
+/*chosse from pasta start*/
+.cpasta{
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.pasta-title{}
+.pasta-title p{
+	font-family:  'Yeon Sung', cursive;
+	font-size: 39px;
+	margin-bottom: 90px;
+
+}
+.pasta-image{
+	
+}
+.pasta-image img{
+	
+
+}
+.pasta-content{
+	
+}
+.pasta-content h3{
+	font-family: 'Libre Baskerville', serif;
+	color: #909090;
+    font-size: 20px;
+
+}
+.pasta-content h1{
+	font-family: 'Libre Baskerville', serif;
+	color:#F10129;
+    font-size: 22px;
+  
+    
+}
+.pasta-content p{
+	font-family: 'Libre Baskerville', serif;
+	color: #909090;
+    font-size: 20px;
+}
+.pasta-image{
+	
+}
+.pasta-image img{
+	
+	
+
+}
+.pasta-content1{
+	margin-left: 0px;
+	
+}
+.pasta-content1 h3{
+	font-family: 'Libre Baskerville', serif;
+	color: #909090;
+    font-size: 20px;
+
+}
+.pasta-content1 h1{
+	font-family: 'Libre Baskerville', serif;
+	color:#F10129;
+    font-size: 22px;
+   
+    
+}
+.pasta-content1 p{
+	font-family: 'Libre Baskerville', serif;
+	color: #909090;
+    font-size: 20px;
+}
+.piza-row{
+	padding-top: 30px;
+}
+.piza-2ndrow{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/*chosse from pasta end*/
+/*--------------------------------------------Contact start------------------------------------------------------------*/
+.contact-header{
+	background-image: url(../images/slider_4_1920_600.jpg);
+}
+.say-hello{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.hello-title{
+	margin-top: 40px;
+    margin-bottom: 30px;
+}
+.hello-title h4{
+	font-family:'Libre Baskerville', serif;;
+	font-size: ;
+	color: #6D6D6D;
+
+}
+.hello-p{}
+.hello-p p{
+	font-family:'Libre Baskerville', serif;
+	font-size: ;
+	color: #6D6D6D;
+}
+/*contact-form-start*/
+.contact-form{
+
+}
+.border{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#message{
+	
+}
+.border4{
+	padding-bottom: 50px;
+	
+}
+.form-control{
+	background-color: #EFF6F7;
+}
+/*contact-form-end*/
+/*button start*/
+.contact-buttn{
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
+.cb{
+	padding: 10px;
+	background-color: #F10129;
+	color: white;
+	border-color:  #F10129;
+	transition: 1s;
+	
+}
+.cb:hover{
+	background-color: white;
+	color: black;
+}
+/* button end*/
+
+/*---------------------------------------------Contact end-----------------------------------------------------------*/
+/*---------------------------------------------news start----------------------------------------*/
+.news{
+	background-image: url(../images/slider_5_1920_600.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+/*secton1 start*/
+.section1{
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+.section1-image{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.section1-image img{}
+.section1-title{
+	margin-bottom:20px;
+}
+.section1-title h1{
+	font-family:'Libre Baskerville', serif;
+	font-size: 34px;
+    font-weight: 800;
+	color: ;
+}
+.section1-title h1:hover{
+color: #F10129;
+}
+.section1-para{}
+.section1-para p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 17px;
+	color: ;
+}
+.searchbox{
+	margin-top: 18px;
+
+}
+
+.custim{
+	background-color:#F10129 !important;
+	border-color:#F10129 !important;
+	color: white !important;
+}
+.section1-image2{
+	padding-top: 50px;
+
+}
+/*section 1 end*/
+/*section 2 start*/
+.section2{
+	padding-bottom: 50px;
+
+}
+.setion2-title{}
+.setion2-title p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 29px;
+	color:#585858;
+}
+.setion2-box{}
+.setion2-button{
+	margin-top: 20px;
+}
+.section-custom{
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-right: 140px;
+	padding-left: 140px;
+	background-color: #F10129;
+	color: white;
+}
+/* section 2 end*/
+/*section 3 start*/
+.section3{}
+.section3-title{}
+.section3-title h1{
+	font-family:'Libre Baskerville', serif;
+	font-size: 33px;
+    font-weight: 800;
+    margin-bottom: 27px;
+}
+.section3-para{}
+.section3-para p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 17px;
+    word-spacing: 2px;
+    letter-spacing: 4px;
+}
+.section3-post{}
+.section3-post p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 24px;
+	color: ;
+}
+.post-image{
+	margin-bottom: 40px;
+}
+.post-para p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 22px;
+    color: grey;
+}
+.post-date{}
+.post-date p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 17px;
+	color:#F10129;
+}
+/*section 3 end*/
+/*section 4 start*/
+.section4{
+	padding-bottom: 50px;
+	
+}
+.section4-title{}
+.section4-title p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 30px;
+    color: #dc3827;
+    margin-top: 20px;
+}
+.section4-pic{
+	    margin-top: 240px;
+}
+.section4-image img{}
+.section4-para{}
+.section4-para p{
+	font-family:'Libre Baskerville', serif;
+	font-size: 20px;
+    color: black;
+    margin-top: 20px;
+
+}
+/* section 4 end*/
+
+/*---------------------------------------------news end----------------------------------------*/

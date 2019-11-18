@@ -1,0 +1,488 @@
+
+@media (min-width: 320px) and (max-width: 450.98px) {
+/*wow settings*/
+.wow{
+        animation-name: none !important;
+        visibility: visible !important;
+}
+/*settings end*/
+/*header start*/
+.menu ul li a{
+		padding: 0 !important;
+		text-align: left;
+		font-size:15px;
+		margin-top: 10px;
+	}
+	.button-style{
+		margin-left: 21px;
+    margin-top: 100px;
+	}
+	.top{
+		margin-bottom:  20px !important;
+	}
+	
+	/*header end*/
+	/*header contant start*/
+	.header-content{
+		padding-top: 120px;
+    padding-bottom: 120px;
+	}
+	.header-content p {
+		font-size: 45px;
+	}
+	/*header contant end*/
+	/*story section start*/
+	.story {
+		padding-top: 17px;
+    padding-bottom: 45px;
+	}
+	.story-p p{
+		font-size: 12px;
+    
+	}
+	/*story section end*/
+	/*best seller start*/
+	.pizza-price p {
+    font-size: 27px;  
+}
+.pizza-price h1 {
+	text-align: center;
+   
+    font-size: 34px;
+    margin-bottom: 27px;
+}
+.pizza img {
+    margin-left: 20px;
+}
+.last-button {
+    margin-left: 45px;
+}
+/*best seller end*/
+/*all menu start*/
+.main-menu ul li a{
+	font-size: 10px;
+	padding-right: 0;
+	}
+.m-name{ 
+text-align: center; }
+.m-image{
+	text-align: center;
+	margin-left: 10px;
+}
+.m-name h1{
+	
+}
+.m-name p{
+	
+}
+
+.m-price {text-align: center;}
+.m-price p{}
+.m-buttons{text-align: center;}
+/*all menu end*/
+/*footer start*/
+.footer-content h1{
+	font-size: 18px;
+}
+.footer-content p {
+	font-size: 13px;
+}
+.icon {
+	margin-top: 0;
+}
+.copyright p{
+	font-size: 14px;
+}
+.icon ul li i{
+	
+	padding-right: 3px;
+	font-size: 20px;
+	
+}
+.copyright p{
+	font-size: 9px;
+}
+/*footer end*/
+/*about start*/
+/*about header content start*/
+.header-content p {
+    font-size: 33px;
+    margin-top: 66px;
+}
+/*about header content end*/
+/*about us start*/
+.about-us-we h1 {
+    
+    font-size: 33px;
+    
+}
+.about-us-image img {
+   
+    margin-bottom: 15px;
+}
+.about-us-we p {
+    font-size: 15px;
+    margin-top: 29px;
+}
+.about-us-para p {
+    font-size: 13px;
+}
+/*about us end*/
+/*client say start*/
+.client-title h1 {
+    font-size: 28px;
+    margin-left: 35px;
+}
+.client-p {
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 23px;
+}
+.client-image img {
+    position: absolute;
+    left: 94px;
+    top: -25px;
+}
+/*client say end*/
+/*custom food start*/
+.custom-food-image img {
+    margin-left: 50px !important;
+}
+.custom-food-count h1 {
+	margin-left: 98px;
+}
+.custom-food-name p {
+  
+    margin-left: 116px;
+    font-size: 27px;
+}
+.choose-image {
+    margin-left: 49px;
+}
+.choose-p p {
+	margin-left: 67px;
+}
+.choose-price p{
+	margin-left: 108px;
+}
+/*custom food end*/
+/* fresh title start*/
+.fresh-title p{
+	font-size: 23px;
+}
+.pasta-title p {
+	font-size: 33px;
+    margin-bottom: -40px;
+}
+.pasta-content h3 {
+	margin-left: 98px;
+}
+/* fresh title end*/
+/*about end*/
+/*service start*/
+/*service header start*/
+.header-3{
+	height: 459px;
+}
+/*service header end*/
+/*choose-title start*/
+.choose-title p{
+	font-size: 31px;
+}
+
+/*choose-title end*/
+
+/*service end*/
+
+
+
+}
+@media (min-width: 451px) and (max-width: 575.98px) {
+
+	.header-content p{
+		font-size: 48px;
+	}
+/*about us start*/
+/*story content start*/
+.story-content1 h1{
+	font-size: 33px;
+}
+.client-title h1{
+	margin-left: 56px;
+}
+.client-image img{
+	top: -26px;
+	left: 143px;
+}
+.custom-food-image img{
+	margin-left: 100px !important;
+}
+.custom-food-count h1 {
+	margin-left: 145px;
+}
+.custom-food-name p{
+	margin-left: 167px;
+    font-size: 19px;
+}
+
+/*story content end*/
+/*about us start*/
+.about-us-we h1{
+	font-size: 41px;
+}
+.about-us-image img{
+	margin-bottom: 14px
+}
+/*service start*/
+/* service header start*/
+.button-style{
+	margin-left: 79px;
+    margin-top: 100px;
+}
+/*choose-piza strat*/
+.choose-image img {
+	margin-left: 45px;
+}
+.choose-p p {
+	margin-left: 112px;
+}
+.choose-price p{
+	margin-left: 154px;
+}
+/*choose-piza end*/
+/* service header end*/
+/*service end*/
+
+	}
+ @media (min-width: 576px) and (max-width: 767.98px){
+/*wow settings*/
+.wow{
+        animation-name: none !important;
+        visibility: visible !important;	
+}
+/*settings end*/
+/*header start*/
+.menu ul li a{
+		padding: 0 !important;
+		text-align: right;
+		font-size:18px;
+	}
+	.button-style{
+		margin-left: 133px;
+    margin-top: 100px;
+	}
+	/*header end*/
+	/*header contant start*/
+	.header-content{
+		padding-top: 170px;
+    padding-bottom: 150px;
+	}
+	.header-content p {
+		font-size: 82px;
+	}
+	/*header contant end*/
+	/*story section start*/
+	.story {
+		padding-top: 17px;
+    padding-bottom: 45px;
+	}
+	.story-p p {
+    font-size: 12px;
+}
+/*story section end*/
+/*best seller start*/
+	.pizza-price p {
+    font-size: 20px;  
+}
+.pizza-price h1 {
+   
+    font-size: 30px;
+}
+/*best seller end*/
+/*all menu start*/
+.main-menu ul li a{
+	
+	padding-right: 1px;
+	}
+.m-name{ 
+text-align: center; }
+.m-image{
+	text-align: center;
+}
+.m-name h1{
+	
+}
+.m-name p{
+	
+}
+
+.m-price {text-align: center;}
+.m-price p{}
+.m-buttons{text-align: center;}
+/*all menu end*/
+/*footer start*/
+.footer-content h1{
+	font-size: 21px;
+}
+.footer-content p {
+	font-size: 16px;
+}
+.icon {
+	margin-top: 0;
+}
+.copyright p{
+	font-size: 14px;
+}
+/*footer end*/
+/*about start*/
+/*about header content start*/
+.header-content p {
+    font-size: 52px;
+}
+/*about header content end*/
+/*about us start*/
+.about-us-image img {
+    margin-bottom: 10px;
+}
+.about-us-we h1 {
+    
+    font-size: 64px;
+    
+}
+.about-us-we p {
+    font-size: 15px;
+    margin-top: 29px;
+}
+.about-us-para p {
+    font-size: 13px;
+}
+/*about us end*/
+/*client say start*/
+.client-title h1 {
+    font-size: 28px;
+    text-align: center;
+}
+.client-p {
+    font-size: 12px;
+    text-align: center;
+}
+.client-image img {
+    position: absolute;
+    left: 194px;
+    bottom: -56px;
+    text-align: center;
+}
+/*client say end*/
+/*custom food start*/
+.custom-food-count h1 {
+	margin-left: 27px;
+}
+.custom-food-name p{
+	margin-left: 46px;
+}
+/*custom food end*/
+/*about end*/
+/*service start*/
+
+/*service end*/
+	
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a{
+		padding: 0 !important;
+		text-align: right;
+		font-size:18px;
+	}
+	.button-style{
+		margin-left: 183px;
+    margin-top: 100px;
+	}
+
+	/*header end*/
+	/*header contant start*/
+	.header-content{
+		padding-top: 170px;
+    padding-bottom: 150px;
+	}
+	.header-content p {
+		font-size: 84px;
+	}
+	/*header contant end*/
+	/*story section start*/
+	.story {
+		padding-top: 17px;
+    padding-bottom: 45px;
+	}
+	.story-p p {
+    font-size: 12px;
+}
+	/*story section end*/
+	/*best seller start*/
+	.pizza-price p {
+    font-size: 20px;  
+}
+.pizza-price h1 {
+   
+    font-size: 30px;
+}
+/*best seller end*/
+/*footer start*/
+.footer-content h1{
+	font-size: 21px;
+}
+.footer-content p {
+	font-size: 16px;
+}
+.icon {
+	margin-top: 0;
+}
+/*footer end*/
+/*about start*/
+/*about header content start*/
+.header-content p {
+    font-size: 52px;
+}
+/*about header content end*/
+/*about us start*/
+.about-us-we h1 {
+    
+    font-size: 64px;
+    
+}
+.about-us-we p {
+    font-size: 15px;
+    margin-top: 29px;
+}
+.about-us-para p {
+    font-size: 13px;
+}
+/*about us end*/
+/*client say start*/
+.client-title h1 {
+    font-size: 28px;
+}
+.client-p {
+    font-size: 12px;
+}
+.client-image img {
+    position: absolute;
+    left: 36px;
+}
+/*client say end*/
+/*custom food start*/
+.custom-food-count h1 {
+	margin-left: 27px;
+}
+.custom-food-name p{
+	margin-left: 46px;
+}
+/*custom food end*/
+/*about end*/
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+@media (min-width: 1200px) {
+}
